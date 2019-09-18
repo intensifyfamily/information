@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ea0ae262-252b-4849-a78f-7ff7979f70e8" name="qqq" url="http://148.70.18.126">
+        <fileTransfer host="148.70.18.126" port="23" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="23" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
